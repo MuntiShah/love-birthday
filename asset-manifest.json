@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/love-birthday/static/css/main.ec7ccb1a.css",
+    "main.js": "/love-birthday/static/js/main.09a606be.js",
+    "static/js/787.672562cd.chunk.js": "/love-birthday/static/js/787.672562cd.chunk.js",
+    "static/media/Love3.jpg": "/love-birthday/static/media/Love3.e19c64743b4f5ea6df94.jpg",
+    "static/media/Tooba1.jpg": "/love-birthday/static/media/Tooba1.06fccc40f7ab4daeb811.jpg",
+    "static/media/Munti1.jpg": "/love-birthday/static/media/Munti1.d25863547f6b8630bf62.jpg",
+    "index.html": "/love-birthday/index.html",
+    "main.ec7ccb1a.css.map": "/love-birthday/static/css/main.ec7ccb1a.css.map",
+    "main.09a606be.js.map": "/love-birthday/static/js/main.09a606be.js.map",
+    "787.672562cd.chunk.js.map": "/love-birthday/static/js/787.672562cd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ec7ccb1a.css",
+    "static/js/main.09a606be.js"
+  ]
+}
